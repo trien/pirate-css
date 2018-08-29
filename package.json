@@ -1,5 +1,5 @@
 {
-  "name": "pirate-speak",
+  "name": "pirate-css",
   "version": "1.0.0",
   "description": "A pirate css transcriptor",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "author": "trien",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trien/pirate-speak/issues"
+    "url": "https://github.com/trien/pirate-css/issues"
   },
-  "homepage": "https://github.com/trien/pirate-speak#readme"
+  "homepage": "https://github.com/trien/pirate-css#readme"
 }

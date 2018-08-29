@@ -1,4 +1,4 @@
-# pirate-day
+# pirate-css
 
 A pirate css transcriptor
 For developers who want to code like pirates 
