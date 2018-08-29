@@ -1,0 +1,25 @@
+{
+  "name": "pirate-speak",
+  "version": "1.0.0",
+  "description": "A pirate css transcriptor",
+  "main": "index.js",
+  "scripts": {
+    "pirate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trien/pirate-speak.git"
+  },
+  "keywords": [
+    "pirate",
+    "day",
+    "speak",
+    "css"
+  ],
+  "author": "trien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trien/pirate-speak/issues"
+  },
+  "homepage": "https://github.com/trien/pirate-speak#readme"
+}
