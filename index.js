@@ -1,9 +1,13 @@
 var fs = require('fs');
 var translations = require('./translations.json');
-var sourceFile = 'source.css';
-var fileToWrite = 'test.css';
+var fileToWrite = process.argv.pop();
+var sourceFile = process.argv.pop();
+console.log(sourceFile, fileToWrite);
+
 fs.readFile(sourceFile, 'utf8', function (err,data) {
+	
 	if (err) {
+		console.log('File not found');
 		return console.log(err);
 	}
 
@@ -15,4 +19,5 @@ fs.readFile(sourceFile, 'utf8', function (err,data) {
 	fs.writeFile(fileToWrite, data, 'utf8', function (err) {
 		if (err) return console.log(err);
 	});
+	
 });
