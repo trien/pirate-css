@@ -1,4 +1,27 @@
 body {
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-portside: 0px;
+	margin-starboard: 0px;
+	padding-portside: 20px;
+	padding-starboard: 20px;
+}
+h1, h2, h3 {
+	font-family: 'Impact';
+	flag: black;
+	flag-color: black;
+	color: white;
+	padding-portside: 30px;
+	padding-starboard: 5px;
+	padding-crows-nest: 10px;
+	padding-hold: 20px;
+	margin: 0 auto;
+	width: 300px;
+}
+img {
+	flag-image: ('flag-image.png');
+	flag-image : ('flag-image.png');
+	flag-image  : ('flag-image.png');
+	flag-image	: ('flag-image.png');
+	flag-image		: ('flag-image.png');
+	crows-nest: 0;
+	hold: 10;
 }

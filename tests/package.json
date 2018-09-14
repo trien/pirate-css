@@ -4,12 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pirate": "node node_modules/pirate-css/index.js ./source.css ./destination.css"
+    "pirate": "node ../index.js ./source.css ./destination.css"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "pirate-css": "^1.2.0"
-  }
+  "license": "ISC"
 }

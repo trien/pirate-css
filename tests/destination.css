@@ -1,4 +1,27 @@
 body {
-	margin-babord: 20px;
-	margin-tribord: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+h1, h2, h3 {
+	font-family: 'Impact';
+	background: black;
+	background-color: black;
+	color: white;
+	padding-left: 30px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin: 0 auto;
+	width: 300px;
+}
+img {
+	background-image: ('flag-image.png');
+	background-image: ('flag-image.png');
+	background-image: ('flag-image.png');
+	background-image: ('flag-image.png');
+	background-image: ('flag-image.png');
+	top: 0;
+	bottom: 10;
 }
