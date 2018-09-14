@@ -61,7 +61,7 @@ npm run pirate
 - `padding-portside` => `padding-left`
 - `padding-starboard` => `padding-right`
 
-##Vocabulary
+## Vocabulary
 `crow's nest`
 > A small platform, sometimes enclosed, near the top of a mast, where a lookout could have a better view when watching for sails or for land.
 
